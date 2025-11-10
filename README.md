@@ -1,5 +1,5 @@
 # MelanoScan - Skin cancer detector
-
+![MelanoScan Screenshot](screenshot.png)
 ## Introduction
 Skin cancer is one of the most common cancers globally, and early detection is essential for successful treatment. However, limited access to dermatologists and diagnostic tools makes early diagnosis difficult, especially in developing regions.  
 
